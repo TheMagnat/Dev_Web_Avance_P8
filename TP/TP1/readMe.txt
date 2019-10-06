@@ -18,3 +18,6 @@ J'ai essayé de faire au plus proche de l'exemple donné, j'ai aussi rajouté la
 
 
 J'ai essayé de commenter mon code de la manière la plus compréhensible possible en anglais (si cela ne vous dérange pas, c'est pour essayer de faire progresser mon niveau dans cette langue)
+
+
+Note : Vu que vous avez publié vos exemple en ligne, j'ai vu que la transition a beaucoup changé (Plus possible de cliqué plusieurs fois pendant l'animation, 3 transition différentes), j'ai décidé de laisser mes transition comme tel bien qu'elles sont maintenant assez différentes des votre.
