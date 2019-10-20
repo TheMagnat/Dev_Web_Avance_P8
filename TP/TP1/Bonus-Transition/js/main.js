@@ -3,7 +3,7 @@
 //Constant Value for the whole program
 const numberOfRectX = 12
 const numberOfRectY = 8
-const speed = 0.9
+const speed = 2
 const propagationSpeed = 1000
 
 const shadowOffsetX = 10
@@ -69,6 +69,8 @@ const graphicLoop = time => {
 
 	let elapsedTime = (time - lastTime)/1000.0
 	lastTime = time
+
+	console.log(elapsedTime)
 
 	requestAnimationFrame(graphicLoop)
 
